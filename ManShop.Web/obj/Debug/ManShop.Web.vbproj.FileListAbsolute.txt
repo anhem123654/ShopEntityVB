@@ -1,0 +1,4 @@
+D:\MyProject\MyShop\ManShop.Web\obj\Debug\ManShop.Web.vbproj.AssemblyReference.cache
+D:\MyProject\MyShop\ManShop.Web\obj\Debug\ManShop.Web.Resources.resources
+D:\MyProject\MyShop\ManShop.Web\obj\Debug\ManShop.Web.vbproj.GenerateResource.cache
+D:\MyProject\MyShop\ManShop.Web\obj\Debug\ManShop.Web.vbproj.CoreCompileInputs.cache
